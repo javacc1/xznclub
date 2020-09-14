@@ -10,6 +10,6 @@ class IndexTestController extends Controller
     }
     public function list($id){
 
-        return view('index_test.list',compact('name','age'));
+        return view('index_test.list',compact('id'));
     }
 }

@@ -21,7 +21,7 @@
             Laravel List
         </div>
         <div class="links">
-            <a href="/test/">进入首页</a>
+            <a href="/">进入首页</a>
         </div>
     </div>
 </div>
