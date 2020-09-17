@@ -99,7 +99,6 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
       <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
       <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
-      <path value="$PROJECT_DIR$/vendor/encore/laravel-admin" />
       <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
       <path value="$PROJECT_DIR$/vendor/wangEditor-3.1.0/docs" />
       <path value="$PROJECT_DIR$/vendor/wangEditor-3.1.0/example" />
@@ -110,6 +109,7 @@
       <path value="$PROJECT_DIR$/vendor/overtrue/laravel-ueditor" />
       <path value="$PROJECT_DIR$/vendor/laravel-admin-ext/simplemde" />
       <path value="$PROJECT_DIR$/vendor/laravel-admin-ext/summernote" />
+      <path value="$PROJECT_DIR$/vendor/encore/laravel-admin" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
